@@ -1,46 +1,61 @@
-# Matteo Vincenti
+<a href="https://www.matteovincenti.com/en">
+  <img src="./assets/header.svg" width="1200" alt="Matteo Vincenti — People. Systems. Possibilities. Engineering leadership, architecture and R&amp;D." />
+</a>
 
-Head of R&D · Full-Stack Engineer · System Builder
+# Hi, I'm Matteo.
 
-I design and build scalable web platforms with a strong focus on performance, maintainability, and long-term evolution.
+**Engineering Team Lead at [On Page®](https://onpage.it) · Full-stack engineer · Turin, Italy**
 
-Currently working on digital products at On Page®, where I lead technical decisions, architecture, and experimentation.
+I build software, help teams make better technical decisions, and turn research into working products. My work spans architecture, hands-on development, and the people who keep a system moving forward.
 
-### What I do
+These days, I also design **software agents, MCP servers, and AI integrations** that connect models to real application data and workflows.
 
-- Architect scalable systems using Clean Architecture and domain-driven principles
-- Lead R&D initiatives to validate new technologies and improve performance
-- Build end-to-end products (frontend + backend + infrastructure)
-- Optimize existing systems for speed, maintainability, and cost efficiency
+**[Explore my website ↗](https://www.matteovincenti.com/en)** &nbsp; / &nbsp; **[Let's talk on LinkedIn ↗](https://www.linkedin.com/in/matteo-vincenti/)**
 
-### R&D Focus
+---
 
-- Exploring Kubernetes and container orchestration strategies
-- Evaluating performance trade-offs across modern stacks (Node, PHP, Go, Rust)
-- Designing modular and evolvable architectures for long-term scalability
+### Where I put my energy
 
-### Core Stack
+- **Engineering leadership.** Share the reasoning, make the constraints clear, and give people room to own decisions. The best idea doesn't have to be mine.
+- **Software architecture.** Build modular systems that people can understand, maintain, and change. Weigh performance against complexity and the work a decision creates later.
+- **Research & development.** Start with a useful question, run a focused experiment, and let the result decide what comes next.
 
-- Frontend: React, Next.js, TypeScript
-- Backend: Node.js, Laravel, Symfony
-- Architecture: Clean Architecture, OOP, Modular Design
-- Infra: Docker, AWS, Linux
+### Agents that work with real software
 
-### Selected Projects
+I work on the connections between **context, tools, and action**: retrieving relevant sources with RAG, exposing application capabilities through MCP, and orchestrating workflows with explicit permissions and review steps.
 
-#### PiMonitor
-System for monitoring Raspberry Pi devices with real-time metrics and alerts.
+At On Page®, I've worked on making the PIM accessible to AI assistants through MCP.
 
-→ Focus: performance, observability, lightweight architecture
+↳ **[Read about the integration](https://onpage.it/blog/saas-compatibile-con-mcp-come-on-page-integra-lai-nel-pim/)** · Article in Italian
 
-#### LogService
-Centralized logging service designed for scalability and debugging efficiency.
+### Things you can open and read
 
-→ Focus: distributed systems, reliability, developer experience
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/MatteoVincenti/log-service-js">01 / LogService ↗</a></h3>
+      <p>A TypeScript logging library with pluggable strategies and providers. Choose when logs are emitted and where they go.</p>
+      <p><code>TypeScript</code> <code>Extensibility</code> <code>Developer tooling</code></p>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/MatteoVincenti/pi-system-monitor">02 / Pi System Monitor ↗</a></h3>
+      <p>A Docker-based monitoring setup for Raspberry Pi and Linux, bringing together metrics, dashboards, and alerting.</p>
+      <p><code>Docker</code> <code>Grafana</code> <code>Observability</code></p>
+    </td>
+  </tr>
+</table>
 
-### How I think
+### Tools I work with
 
-I care about:
-- writing code that survives years, not months
-- reducing complexity instead of adding abstractions
-- building systems that scale with both users and teams
+| Layer | Tools |
+| :--- | :--- |
+| Interfaces | TypeScript · React · Next.js |
+| Services | Node.js · PHP · Laravel · Symfony |
+| Infrastructure | Docker · AWS · Linux |
+| Agents & integrations | MCP · RAG · Workflow orchestration |
+
+---
+
+**Context first. Then the choice.**
+
+More about my work, my approach, and what I'm exploring → **[matteovincenti.com](https://www.matteovincenti.com/en)**
